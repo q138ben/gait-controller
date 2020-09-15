@@ -1,0 +1,8 @@
+
+A controller is provided under the directory examples/sim_L2M2019_controller1
+
+To run the controller, one is recommended to run it by command prompt instead of jupyter lab or other IDE.
+
+Go to the directory of osim-rl, bacause some modules are imported using relative import from this directory.
+
+run python examples\sim_L2M2019_controller1.py
